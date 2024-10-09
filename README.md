@@ -10,4 +10,4 @@ And the second argument of `fetch` for preventing _caching_ the advice, to make 
 
 ## Live Deployment
 
-Live Preview: [Advice Generator App](https://zxc-w.github.io/Advice-Generator-App)
+Live Preview: [Advice Generator App](https://zxc-w.github.io/Advice-Gen-App)
